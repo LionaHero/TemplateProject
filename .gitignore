@@ -1,0 +1,6 @@
+/.vs/BusinessTemplates/v15/*.suo
+/.vs/BusinessTemplates/v15/Server/sqlite3/*.lock
+/.vs/BusinessTemplates/v15/Server/sqlite3/*.ide
+/.vs/BusinessTemplates/v15/Server/sqlite3/*.ide-shm
+/.vs/BusinessTemplates/v15/Server/sqlite3/*.ide-wal
+/.vs/config/*.config

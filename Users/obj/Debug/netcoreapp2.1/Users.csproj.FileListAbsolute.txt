@@ -1,0 +1,14 @@
+D:\MyProjects\TemplateProject\Users\bin\Debug\netcoreapp2.1\Users.deps.json
+D:\MyProjects\TemplateProject\Users\bin\Debug\netcoreapp2.1\Users.runtimeconfig.json
+D:\MyProjects\TemplateProject\Users\bin\Debug\netcoreapp2.1\Users.runtimeconfig.dev.json
+D:\MyProjects\TemplateProject\Users\bin\Debug\netcoreapp2.1\Users.dll
+D:\MyProjects\TemplateProject\Users\bin\Debug\netcoreapp2.1\Users.pdb
+D:\MyProjects\TemplateProject\Users\obj\Debug\netcoreapp2.1\Users.csprojAssemblyReference.cache
+D:\MyProjects\TemplateProject\Users\obj\Debug\netcoreapp2.1\Users.csproj.CoreCompileInputs.cache
+D:\MyProjects\TemplateProject\Users\obj\Debug\netcoreapp2.1\Users.RazorAssemblyInfo.cache
+D:\MyProjects\TemplateProject\Users\obj\Debug\netcoreapp2.1\Users.RazorAssemblyInfo.cs
+D:\MyProjects\TemplateProject\Users\obj\Debug\netcoreapp2.1\Users.AssemblyInfoInputs.cache
+D:\MyProjects\TemplateProject\Users\obj\Debug\netcoreapp2.1\Users.AssemblyInfo.cs
+D:\MyProjects\TemplateProject\Users\obj\Debug\netcoreapp2.1\Users.RazorTargetAssemblyInfo.cache
+D:\MyProjects\TemplateProject\Users\obj\Debug\netcoreapp2.1\Users.dll
+D:\MyProjects\TemplateProject\Users\obj\Debug\netcoreapp2.1\Users.pdb
