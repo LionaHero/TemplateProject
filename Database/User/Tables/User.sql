@@ -1,0 +1,17 @@
+﻿CREATE TABLE [acc].[User]
+(
+	[Id] INT NOT NULL IDENTITY(1001, 1),
+	[GenderId] INT,
+	[Email] NVARCHAR(255) NULL,
+	[Mobile] NVARCHAR(255) NULL,
+	[FirstName] NVARCHAR(255) NULL,
+	[LastName] NVARCHAR(255) NULL,
+	[MiddleName] NVARCHAR(255) NULL,
+	[Skype] NVARCHAR(255) NULL,
+	[BirthDate] NVARCHAR(255) NULL,
+	[PasswordHash] NVARCHAR(255) NULL,
+	[CreatedDateUtc] DATETIME NOT NULL, 
+
+	CONSTRAINT [PK_User] PRIMARY KEY CLUSTERED ([Id]),
+	CONSTRAINT [FK_User_Gender] FOREIGN KEY ([GenderId]) REFERENCES [dom].[Gender]([Id])
+)
