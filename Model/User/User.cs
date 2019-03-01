@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Model {
+namespace TemplateProject.Model {
 	public class User {
 		public int Id { get; set; }
 		public int? GenderId { get; set; }
